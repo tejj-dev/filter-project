@@ -1,0 +1,58 @@
+[
+{
+  "plot":101,
+  "area":"metro",
+  "city":"sonada",
+  "district":"darjeeling",
+  "image":"https://imagecdn.99acres.com/media1/19731/14/394634990M-1669801190132.jpg"
+},
+{
+  "plot":128,
+  "area":"non-metro",
+  "city":"sonada",
+  "district":"darjeeling",
+  "image":"https://mediacdn.99acres.com/media1/19048/15/380975166M-1662703002788.jpg"
+},
+{
+  "plot":146,
+  "area":"metro",
+  "city":"dumrigiri",
+  "district":"darjeeling",
+  "image":"https://mediacdn.99acres.com/media1/19253/7/385067238M-1664687210836.jpg"
+},
+{
+  "plot":191,
+  "area":"non-metro",
+  "city":"dumrigiri",
+  "district":"darjeeling",
+  "image":"https://mediacdn.99acres.com/media1/17931/4/358624232M-1651726490158.jpeg"
+},
+{
+  "plot":121,
+  "area":"metro",
+  "city":"Serampore",
+  "district":"hoogly",
+  "image":"https://imgin.waa2.com/home/090123/comfortably-bungalow-pattern-house-cb504bf0e0cb2ee4f0f4688f8d567afc_thumb.jpg"
+},
+{
+  "plot":231,
+  "area":"non-metro",
+  "city":"Serampore",
+  "district":"hoogly",
+  "image":"https://imagecdn.99acres.com/media1/19731/15/394635080M-1669801567129.jpeg"
+},
+{
+  "plot":871,
+  "area":"metro",
+  "city":"Chandannagar",
+  "district":"hoogly",
+  "image":"https://is1-3.housingcdn.com/01c16c28/697fe09647dacfe68581efb05d4a57ac/v0/fs/2_bhk_independent_house-for-sale-belghoria-Kolkata-others.jpg"
+},
+{
+  "plot":81,
+  "area":"non-metro",
+  "city":"Chandannagar",
+  "district":"hoogly",
+  "image":"https://thumbs.dreamstime.com/b/local-vintage-muddy-house-style-old-village-jhargram-west-bengal-india-october-164597389.jpg"
+}
+]
